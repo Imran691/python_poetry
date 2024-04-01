@@ -42,9 +42,9 @@ python -m ipykernel install --user --name=my_project
 code .
 ```
 * Select the kernel in VS Code
-    i- Create a Jupyter Notebook file with .ipynb extension
-    ii- Go to kernel options in the top right corner of the notebook
-    iii- Choose the kernel you created earlier (e.g. my_project)
+    * Create a Jupyter Notebook file with .ipynb extension
+    * Go to kernel options in the top right corner of the notebook
+    * Choose the kernel you created earlier (e.g. my_project)
 
 * Start using Jupyter Notebook
-    i- Start using Jupyter Notebook within `VS Code` with your `Poetry Virtual Environment`
+    * Start using Jupyter Notebook within `VS Code` with your `Poetry Virtual Environment`
